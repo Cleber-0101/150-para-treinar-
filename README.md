@@ -1,5 +1,9 @@
 # Treino de Fundamentos — 150 exercícios de lógica em JavaScript
 
+## 🎯 Meu objetivo
+
+Meu objetivo é fazer esses 150 exercícios criados pela IA e, após finalizar todos, vou corrigi-los. Não quero pontuar meus erros e acertos durante o processo: isso será feito no final do desafio.
+
 Exercícios do básico ao avançado: lógica, algoritmos, estruturas de dados e objetos.
 **Nenhum exercício tem resposta.** Cada arquivo traz apenas o enunciado e a saída
 que o seu código deve produzir no console. A lógica é com você.
